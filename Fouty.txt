@@ -1,0 +1,8 @@
+Add a high score function saved to name and a picture of
+	what your screen was when you lost.
+
+When you do try a move that does not move anything then do
+	a test throuth the other directions and if all of them
+	do not move anything then save highscore and go to
+	highscore and have reset buttons and shit. 
+
