@@ -1,4 +1,4 @@
-Two-Oh-Four-H8
+TwoPack
 ==============
 
 2048 clone.
