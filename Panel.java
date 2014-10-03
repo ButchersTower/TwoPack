@@ -1,4 +1,4 @@
-package twoPack;
+package TwoPack;
 
 import java.awt.Color;
 import java.awt.Dimension;

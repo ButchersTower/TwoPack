@@ -1,4 +1,4 @@
-package twoPack;
+package TwoPack;
 
 import javax.swing.JFrame;
 
